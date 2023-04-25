@@ -8,7 +8,6 @@ public class codeup1034 {
         String deciVal = sc.nextLine();
 
         int octaVal = Integer.valueOf(deciVal, 8);
-
         System.out.printf("%d", octaVal);
     }
 }

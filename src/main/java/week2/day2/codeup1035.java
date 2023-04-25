@@ -8,7 +8,6 @@ public class codeup1035 {
         String hexaVal = sc.nextLine();
 
         int isOcta = Integer.valueOf(hexaVal, 16);
-
         System.out.printf("%o", isOcta);
     }
 }

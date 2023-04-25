@@ -8,7 +8,6 @@ public class codeup1036 {
         String word = sc.nextLine();
 
         int deciVal = word.charAt(0);
-
         System.out.printf("%d", deciVal);
 
     }
